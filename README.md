@@ -9,7 +9,7 @@
 This is a Car details Website(https://www.gotoauto.ca/), and I take the details of car price, car name and car details by scraping the website. 
 
 # Objective: 
-Collect the details like car name, car price(MSRP) and car details. After this creat a csv file of car price and car name. Also make text files of car details.
+Collect the details like car name, car price(MSRP) and car details. After this creat a csv file which include car price(MSRP) and car name. Also make text files of car details.
 # Steps and tasks:
 1. Scrape the website using AutoScraper
 2. Collect the details from the website like car name, car price(MSRP) and car details.
