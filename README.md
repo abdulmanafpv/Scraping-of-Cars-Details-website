@@ -34,8 +34,7 @@ For Scraping i Used:
 
 1) Python
 2) Pandas
-3) Numpy
-4) AutoScraper
+3) AutoScraper
 
 
 
